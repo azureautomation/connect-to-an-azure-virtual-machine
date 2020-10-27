@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3395,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-an-azure-virtual-machine/master/Connect-AzureVM.ps1",
+    "DownloadCount": 13706,
+    "Id": "Connect-to-an-Azure-85f0782c",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 174,
+    "RaterCount": 8,
+    "Rating": 4.6,
+    "ReleaseDate": "2014-3-31T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook sets up a connection to an Azure virtual machine.",
+    "Title": "Connect to an Azure Virtual Machine",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-an-azure-virtual-machine",
+    "UserTags": "Utility, VM Lifecycle Management, PowerShell Workflow Runbook"
+}
